@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8o4u1mt1hoet"
-path="res://.godot/imported/damage_area_icon.png-565455ce4350018850e63b344f826775.ctex"
+path="res://.godot/imported/damage_area_icon.png-eb23377e7e11bde22b1648bda137ba00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/Combat_system/Icons/damage_area_icon.png"
-dest_files=["res://.godot/imported/damage_area_icon.png-565455ce4350018850e63b344f826775.ctex"]
+source_file="res://addons/goodai9-combat-system/Combat_system/Icons/damage_area_icon.png"
+dest_files=["res://.godot/imported/damage_area_icon.png-eb23377e7e11bde22b1648bda137ba00.ctex"]
 
 [params]
 

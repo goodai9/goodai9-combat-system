@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw264k2vkfpgr"
-path="res://.godot/imported/damage_receiver_icon.png-dad7d77a39bcac9f6e9fd853fc9138d8.ctex"
+path="res://.godot/imported/damage_receiver_icon.png-1bc46abb7951be35ec7efea8f9c62d14.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/Combat_system/Icons/damage_receiver_icon.png"
-dest_files=["res://.godot/imported/damage_receiver_icon.png-dad7d77a39bcac9f6e9fd853fc9138d8.ctex"]
+source_file="res://addons/goodai9-combat-system/Combat_system/Icons/damage_receiver_icon.png"
+dest_files=["res://.godot/imported/damage_receiver_icon.png-1bc46abb7951be35ec7efea8f9c62d14.ctex"]
 
 [params]
 
